@@ -1,0 +1,6 @@
+framework module Pods_ApplicationSwift_Poizat_DerouetTests {
+  umbrella header "Pods-ApplicationSwift-Poizat-DerouetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

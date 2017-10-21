@@ -1,0 +1,6 @@
+framework module Pods_ApplicationSwift_Poizat_Derouet {
+  umbrella header "Pods-ApplicationSwift-Poizat-Derouet-umbrella.h"
+
+  export *
+  module * { export * }
+}
